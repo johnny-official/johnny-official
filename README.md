@@ -1,51 +1,72 @@
-Hello World, I'm Johnny (Trần Quốc Nhật Vũ)! 👋
+# Hi there, I'm Johnny (Trần Quốc Nhật Vũ) 👋
 
-<a href="https://www.linkedin.com/in/your-link/">
-<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
-</a>
-<a href="mailto:contact.nhatvu@gmail.com">
-<img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
-</a>
-<a href="https://your-portfolio-url">
-<img align="left" width="26px" src="https://cdn.simpleicons.org/vercel" />
-</a>
-<br/>
+> **DevOps / Cloud Engineer (Fresher) | Cybersecurity Enthusiast** > 📍 *Da Nang, Vietnam*
 
-About Me 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:contact.nhatvu@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel)](https://your-portfolio-url)
 
-• DevOps/Cloud fresher with a cybersecurity background (Đà Nẵng, Vietnam)
-• I learn by building: homelab, automation, secure delivery on AWS
-• Current focus: Linux, Docker/K8s, GitHub Actions (CI/CD), Terraform, observability
-What I’m Exploring 🌱
+---
 
-• DevSecOps mindset: HTTPS everywhere, secrets hygiene, least privilege
-• IaC & reproducible environments (Terraform, Ansible basics)
-• Routines for consistency: build → document → automate → iterate
-Experience / Highlights 🙌
+### 🚀 About Me
+I am a builder focused on **secure delivery**, **automation**, and **infrastructure resilience**. My approach combines a cybersecurity background with modern DevOps practices to create reproducible and secure environments.
 
-• Automation Intern @ DigiFNB — Bash/Python + n8n to cut manual ops (~40%)
-• Cyber Security Intern @ FPT Software — hardening, OWASP Top 10 exposure
-• Homelab: Proxmox VE, Nginx Proxy Manager + Cloudflare Tunnel, Tailscale VPN
-Projects (selected) 🧰
+* **Current Focus:** Mastering Linux, Containerization (Docker/K8s), CI/CD pipelines, and Infrastructure as Code (Terraform).
+* **Philosophy:** Build → Document → Automate → Iterate.
+* **Mindset:** Security-first (DevSecOps), Least Privilege, and Observability.
 
-• Reverse Proxy + HTTPS (NPM + Cloudflare Tunnel) — zero open ports, TLS by default
-• Email Marketing Stack (Sendy + AWS SES) — DKIM/SPF/DMARC, bounce handling
-• CI/CD practice — GitHub Actions for build/test/deploy on sample apps
-Tech I use 🛠
+---
 
-Linux • Git • Docker • Kubernetes (basics) • GitHub Actions • Terraform (basics) • AWS (VPC/EC2/S3/CloudFront/SES) • Bash • Python • n8n
+### 🛠 Technical Stack
 
-<!-- GitHub stats cards (optional) -->
-<!--
-Johnny's Top Langs
--->
+| Category | Technologies |
+| :--- | :--- |
+| **Cloud & Infra** | AWS (VPC, EC2, S3, CloudFront, SES), Terraform (Basics) |
+| **Container & Orchestration** | Docker, Kubernetes (Basics), Proxmox VE |
+| **CI/CD & Automation** | GitHub Actions, n8n, Bash Scripting |
+| **Networking & Security** | Nginx Proxy Manager, Cloudflare Tunnel, Tailscale, OWASP Top 10 |
+| **Languages & Tools** | Python, Git, Linux (Hardening & Administration) |
 
-Recent Notes / Blog 📕
+---
 
-• Nginx Proxy Manager vs Cloudflare Tunnel — when to use each (soon)
-• Sendy + AWS SES deliverability checklist (soon)
-Contact 📫
+### 🙌 Experience
 
-• Email: contact.nhatvu@gmail.com
-• LinkedIn: https://www.linkedin.com/in/mrnu/
-• Portfolio: https://johnnyhub.id.vn
+**Automation Intern @ DigiFNB**
+* Developed automation workflows using **Bash/Python** and **n8n**.
+* Reduced manual operational tasks by approximately **40%**.
+
+**Cyber Security Intern @ FPT Software**
+* Focused on system hardening and vulnerability assessment.
+* Applied **OWASP Top 10** principles to secure applications.
+
+---
+
+### 🧰 Selected Projects
+
+#### 🔒 [Homelab: Secure Access Gateway](https://github.com/your-username/repo-link)
+* **Objective:** Expose local services securely without opening inbound ports.
+* **Stack:** Proxmox VE, Nginx Proxy Manager, Cloudflare Tunnel.
+* **Result:** Zero open ports, enforced TLS/HTTPS, accessible via Tailscale VPN.
+
+#### 📧 [High-Deliverability Email Stack](https://github.com/your-username/repo-link)
+* **Objective:** Build a cost-effective email marketing solution with high reputation scores.
+* **Stack:** Sendy (Self-hosted) + AWS SES.
+* **Key Features:** Full implementation of DKIM, SPF, and DMARC records; automated bounce handling.
+
+#### 🔄 [CI/CD Pipeline Practice](https://github.com/your-username/repo-link)
+* **Objective:** Automate the build-test-deploy lifecycle.
+* **Stack:** GitHub Actions.
+* **Outcome:** Automated workflows for sample applications, ensuring code integrity before deployment.
+
+---
+
+### 📕 Recent Notes
+* [Draft] Nginx Proxy Manager vs. Cloudflare Tunnel — Architectural trade-offs.
+* [Draft] AWS SES Deliverability — A checklist for preventing spam classification.
+
+---
+
+<div align="center">
+  <sub>Visitors</sub><br>
+  <img src="https://profile-counter.glitch.me/your-github-username/count.svg" alt="visitor count" />
+</div>
