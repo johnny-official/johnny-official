@@ -29,16 +29,12 @@
 <br/>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=johnny-official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnny-official&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=johnny-official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent" height="150" alt="stats graph" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnny-official&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent" height="150" alt="languages graph" />
+  </a>
 </div>
 
 ### 🚀 Top Projects
