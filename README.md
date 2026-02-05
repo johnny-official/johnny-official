@@ -32,7 +32,7 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=johnny-official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent&include_all_commits=true&count_private=true&rank_icon=github" alt="Johnny's Stats" height="180" />
+        <img src="https://github-readme-stats.vercel.app/api?username=johnny-official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent&include_all_commits=true&rank_icon=github" alt="Johnny's Stats" height="180" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnny-official&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent&langs_count=6" alt="Johnny's Top Languages" height="180" />
