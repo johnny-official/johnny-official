@@ -7,13 +7,13 @@
 
   <br/>
 
-  <a href="https://www.linkedin.com/in/your-linkedin-id/">
+  <a href="https://www.linkedin.com/in/mrnu/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:contact.nhatvu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://www.johnnyhub.id.vn/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
