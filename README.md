@@ -45,10 +45,10 @@
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dracula&line_height=10&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnny-official&show_icons=true&theme=dracula&line_height=10&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dracula&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnny-official&layout=compact&theme=dracula&hide_border=true" />
 </a>
 </div>
 
