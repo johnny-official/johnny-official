@@ -32,10 +32,12 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=johnny-official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent&include_all_commits=true&rank_icon=github" alt="Johnny's Stats" height="180" />
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com?user=johnny-official&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="180" />
+        </a>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnny-official&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent&langs_count=6" alt="Johnny's Top Languages" height="180" />
+        <img src="https://github-readme-stats-git-masterrstaa-holmes.vercel.app/api/top-langs/?username=johnny-official&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent&langs_count=6" alt="Top Langs" height="180" />
       </td>
     </tr>
   </table>
