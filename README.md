@@ -33,11 +33,11 @@
     <tr>
       <td>
         <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com?user=johnny-official&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="180" />
+          <img src="https://github-readme-streak-stats-virid-kappa.vercel.app?user=johnny-official&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&theme=tokyonight" alt="GitHub Streak" />
         </a>
       </td>
       <td>
-        <img src="https://github-readme-stats-git-masterrstaa-holmes.vercel.app/api/top-langs/?username=johnny-official&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent&langs_count=6" alt="Top Langs" height="180" />
+        <img src="https://github-readme-stats-git-masterrstaa-holmes.vercel.app/api/top-langs/?username=johnny-official&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent&langs_count=6" alt="Top Langs" height="195" />
       </td>
     </tr>
   </table>
