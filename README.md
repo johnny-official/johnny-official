@@ -43,9 +43,7 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-virid-kappa.vercel.app?user=johnny-official&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" height="180" />
-  </a>
+  <img src="https://github-readme-streak-stats-virid-kappa.vercel.app?user=johnny-official&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" height="180" />
   <a href="https://github.com/johnny-official">
     <img src="https://github-readme-stats.vercel.app/api?username=johnny-official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" height="180" />
   </a>
