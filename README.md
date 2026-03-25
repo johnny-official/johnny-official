@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1 style="font-size: 30px;">Johnny (Trần Quốc Nhật Vũ)</h1>
+  <h1 style="font-size: 30px;">Johnny (Tran Quoc Nhat Vu)</h1>
   <p style="font-size: 16px; font-weight: bold;">DevOps / Cloud Engineer</p>
 
   <p>
