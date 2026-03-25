@@ -1,49 +1,66 @@
 <div align="center">
 
-  <h1 style="font-size: 30px;">Johnny (Tran Quoc Nhat Vu)</h1>
-  <p style="font-size: 16px; font-weight: bold;">DevOps / Cloud Engineer</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey+%F0%9F%91%8B+I'm+Johnny;DevOps+%7C+Cloud+Engineer+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
+
+  <br/>
 
   <p>
-    <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
+    <em>Building reliable infrastructure, one pipeline at a time.</em>
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/johnnynhvu/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
+    </a>
+    <a href="https://johnnyhub.id.vn" target="_blank">
+      <img src="https://img.shields.io/badge/Blog-johnnyhub.id.vn-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" height="28"/>
     </a>
     <a href="mailto:contact.nhatvu@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
     </a>
   </p>
+
+  <img src="https://komarev.com/ghpvc/?username=johnny-official&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile views"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github.com/johnny-official/johnny-official/raw/output/github-contribution-grid-snake-dark.svg" width="100%" alt="activity graph"/>
+  <img src="https://github.com/johnny-official/johnny-official/raw/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
 </div>
 
 <br/>
 
-### Technical Stack
+### 🛠️ Technical Stack
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws,linux,docker,k8s,terraform,githubactions,git,bash,python,nginx,cloudflare&theme=dark" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,githubactions,git,bash,python,nginx,cloudflare&theme=dark&perline=11" />
 </div>
 
 <br/>
 
-### GitHub Activity
+### 📊 GitHub Activity
 
-<div align="left">
+<div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-virid-kappa.vercel.app?user=johnny-official&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&theme=tokyonight" alt="GitHub Streak" height="180" />
+    <img src="https://github-readme-streak-stats-virid-kappa.vercel.app?user=johnny-official&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" height="180" />
+  </a>
+  <a href="https://github.com/johnny-official">
+    <img src="https://github-readme-stats.vercel.app/api?username=johnny-official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" height="180" />
   </a>
 </div>
 
 <br/>
 
-### Key Projects
+<div align="center">
+  <a href="https://github.com/johnny-official">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnny-official&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="160" />
+  </a>
+</div>
 
-| Project Name | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **Secure Gateway** | Nginx, Cloudflare, Tailscale | Zero-trust local access implementation. No open inbound ports. |
-| **Ops Automation** | n8n, Bash, Python | Automated workflows reducing manual operational tasks. |
-| **Email Infrastructure** | AWS SES, Sendy | Self-hosted email marketing stack with high deliverability. |
+<br/>
+
+<div align="center">
+  <sub>⚡ Built with passion from Vietnam 🇻🇳</sub>
+</div>
