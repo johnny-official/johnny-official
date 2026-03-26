@@ -48,13 +48,13 @@
 
 <img src="https://github-readme-streak-stats-virid-kappa.vercel.app?user=johnny-official&theme=transparent&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=8B949E&dates=484F58&stroke=21262D&currStreakNum=C9D1D9&sideNums=C9D1D9&background=00000000" alt="streak" height="170" />
 <a href="https://github.com/johnny-official">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnny-official&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github" alt="stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=johnny-official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github" alt="stats" height="170" />
 </a>
 
 <br/>
 
 <a href="https://github.com/johnny-official">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnny-official&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=8" alt="languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnny-official&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=8" alt="languages" height="150" />
 </a>
 
 <br/><br/>
