@@ -16,9 +16,9 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/mrnu/"><img src="https://img.shields.io/badge/LinkedIn-mrnu-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="https://x.com/MekongWhisper"><img src="https://img.shields.io/badge/X-@MekongWhisper-000?style=flat&logo=x&logoColor=white" alt="X"/></a>&nbsp;&nbsp;
+<a href="https://x.com/MekongCalm"><img src="https://img.shields.io/badge/X-@MekongCalm-000?style=flat&logo=x&logoColor=white" alt="X"/></a>&nbsp;&nbsp;
 <a href="https://t.me/johnnyvv"><img src="https://img.shields.io/badge/Telegram-johnnyvv-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;&nbsp;
-<a href="mailto:contact.nhatvu@gmail.com"><img src="https://img.shields.io/badge/Email-contact.nhatvu-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:work.johnnytran@gmail.com"><img src="https://img.shields.io/badge/Email-work.johnnytran-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
